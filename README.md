@@ -1,4 +1,4 @@
-# 🔎 DEXPI Taxonomy Extractor
+# 🔎 DEXPI Taxonomy Downloader
 
 This Python script extracts the full taxonomy from the [DEXPI RDL (Reference Data Library)](https://dexpi.org), including class definitions, metadata, and hierarchical relationships, using the public SPARQL endpoint.
 
