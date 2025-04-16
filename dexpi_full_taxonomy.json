@@ -1,0 +1,1234 @@
+{
+  "RDS422594": {
+    "label": "RDS422594",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "NON DETONATION PROOF ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/NonDetonationProofArtefact",
+        "designation": "NON DETONATION PROOF ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "NON FIRE RESISTANT ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/NonFireResistantArtefact",
+        "designation": "NON FIRE RESISTANT ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "EXPLOSION PROOF ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/ExplosionProofArtefact",
+        "designation": "EXPLOSION PROOF ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "CLAMPED FLANGE COUPLING",
+        "uri": "http://sandbox.dexpi.org/rdl/ClampedFlangeCoupling",
+        "designation": "CLAMPED FLANGE COUPLING",
+        "comment": "",
+        "definition": "In this coupling, the muff or sleeve is made into two   halves parts of the cast iron and they are joined together by means of   mild steel studs or bolts.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "NO HEAT TRACING SYSTEM",
+        "uri": "http://sandbox.dexpi.org/rdl/NoHeatTracingSystem",
+        "designation": "NO HEAT TRACING SYSTEM",
+        "comment": "",
+        "definition": "An artefact that is no heat tracing system.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "NO SIPHON",
+        "uri": "http://sandbox.dexpi.org/rdl/NoSiphon",
+        "designation": "NO SIPHON",
+        "comment": "",
+        "definition": "An artefact that is no siphon.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "NON EXPLOSION PROOF ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/NonExplosionProofArtefact",
+        "designation": "NON EXPLOSION PROOF ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "PIPING CLASS ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/PipingClassArtefact",
+        "designation": "PIPING CLASS ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708Object",
+        "designation": "ISO 6708 OBJECT",
+        "comment": "",
+        "definition": "A class of inanimate physical object conforming to     ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DISPLACER",
+        "uri": "http://sandbox.dexpi.org/rdl/Displacer",
+        "designation": "DISPLACER",
+        "comment": "Superclasses ARTEFACT and PHYSICAL OBJECT chosen in analogy with PUMP. ",
+        "definition": "The displacer of a displacement pump.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "FLANGED CONNECTION",
+        "uri": "http://sandbox.dexpi.org/rdl/FlangedConnection",
+        "designation": "FLANGED CONNECTION",
+        "comment": "",
+        "definition": "Flange connections are used preferably for above-ground   pipes, for example in pumping stations, waterworks, pipe basements or   upright tanks, but also in underground piping in the area of pipe   junctions and intersections.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SAFETY VALVE OR FITTING",
+        "uri": "http://sandbox.dexpi.org/rdl/SafetyValveOrFitting",
+        "designation": "SAFETY VALVE OR FITTING",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DETONATION PROOF ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/DetonationProofArtefact",
+        "designation": "DETONATION PROOF ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "PIPE FITTING",
+        "uri": "http://sandbox.dexpi.org/rdl/PipeFitting",
+        "designation": "PIPE FITTING",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448Object",
+        "designation": "DIN 2448 OBJECT",
+        "comment": "",
+        "definition": "A class of inanimate physical object conforming to     DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "NON PIPING CLASS ARTEFACT",
+        "uri": "http://sandbox.dexpi.org/rdl/NonPipingClassArtefact",
+        "designation": "NON PIPING CLASS ARTEFACT",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS267704": {
+    "label": "RDS267704",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "PRIMARY PIPING NETWORK SEGMENT",
+        "uri": "http://sandbox.dexpi.org/rdl/PrimaryPipingNetworkSegment",
+        "designation": "PRIMARY PIPING NETWORK SEGMENT",
+        "comment": "",
+        "definition": "A primary piping network segment.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DUAL FLOW PIPING NETWORK SEGMENT",
+        "uri": "http://sandbox.dexpi.org/rdl/DualFlowPipingNetworkSegment",
+        "designation": "DUAL FLOW PIPING NETWORK SEGMENT",
+        "comment": "",
+        "definition": "A piping network segment that enables dual flow.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SINGLE FLOW PIPING NETWORK SEGMENT",
+        "uri": "http://sandbox.dexpi.org/rdl/SingleFlowPipingNetworkSegment",
+        "designation": "SINGLE FLOW PIPING NETWORK SEGMENT",
+        "comment": "",
+        "definition": "A piping network segment that does not enable dual flow.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SECONDARY PIPING NETWORK SEGMENT",
+        "uri": "http://sandbox.dexpi.org/rdl/SecondaryPipingNetworkSegment",
+        "designation": "SECONDARY PIPING NETWORK SEGMENT",
+        "comment": "",
+        "definition": "A secondary piping network segment.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "UNSLOPED PIPING NETWORK SEGMENT",
+        "uri": "http://sandbox.dexpi.org/rdl/UnslopedPipingNetworkSegment",
+        "designation": "UNSLOPED PIPING NETWORK SEGMENT",
+        "comment": "",
+        "definition": "A piping network segment that is not sloped.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SLOPED PIPING NETWORK SEGMENT",
+        "uri": "http://sandbox.dexpi.org/rdl/SlopedPipingNetworkSegment",
+        "designation": "SLOPED PIPING NETWORK SEGMENT",
+        "comment": "",
+        "definition": "A piping network segment that is sloped.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS432584": {
+    "label": "RDS432584",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DISPLACEMENT PUMP",
+        "uri": "http://sandbox.dexpi.org/rdl/DisplacementPump",
+        "designation": "DISPLACEMENT PUMP",
+        "comment": "Superclass DYNAMIC_PUMP chosen in analogy with CENTRIFUGAL PUMP.",
+        "definition": "A pump that makes a fluid move by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS7356152": {
+    "label": "RDS7356152",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "NOMINAL CAPACITY (VOLUME)",
+        "uri": "http://sandbox.dexpi.org/rdl/NominalCapacity(Volume)",
+        "designation": "NOMINAL CAPACITY (VOLUME)",
+        "comment": "",
+        "definition": "A nominal volumetric capacity.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "ISO 6708 OBJECT": {
+    "label": "ISO 6708 OBJECT",
+    "uri": "http://sandbox.dexpi.org/rdl/Iso6708Object",
+    "designation": "ISO 6708 OBJECT",
+    "comment": "",
+    "children": [
+      {
+        "label": "ISO 6708 OBJECT DN 150",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn150",
+        "designation": "ISO 6708 OBJECT DN 150",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 150 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 20",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn20",
+        "designation": "ISO 6708 OBJECT DN 20",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 20 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 300",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn300",
+        "designation": "ISO 6708 OBJECT DN 300",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 300 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 800",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn800",
+        "designation": "ISO 6708 OBJECT DN 800",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 800 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 65",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn65",
+        "designation": "ISO 6708 OBJECT DN 65",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 65 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 32",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn32",
+        "designation": "ISO 6708 OBJECT DN 32",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 32 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 700",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn700",
+        "designation": "ISO 6708 OBJECT DN 700",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 700 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 1400",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn1400",
+        "designation": "ISO 6708 OBJECT DN 1400",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 1400 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 1200",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn1200",
+        "designation": "ISO 6708 OBJECT DN 1200",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 1200 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 15",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn15",
+        "designation": "ISO 6708 OBJECT DN 15",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 15 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 500",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn500",
+        "designation": "ISO 6708 OBJECT DN 500",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 500 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 600",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn600",
+        "designation": "ISO 6708 OBJECT DN 600",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 600 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 900",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn900",
+        "designation": "ISO 6708 OBJECT DN 900",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 900 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 400",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn400",
+        "designation": "ISO 6708 OBJECT DN 400",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 400 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 80",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn80",
+        "designation": "ISO 6708 OBJECT DN 80",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 80 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 125",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn125",
+        "designation": "ISO 6708 OBJECT DN 125",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 125 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 40",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn40",
+        "designation": "ISO 6708 OBJECT DN 40",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 40 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 50",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn50",
+        "designation": "ISO 6708 OBJECT DN 50",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 50 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 1000",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn1000",
+        "designation": "ISO 6708 OBJECT DN 1000",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 1000 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 450",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn450",
+        "designation": "ISO 6708 OBJECT DN 450",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 450 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 250",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn250",
+        "designation": "ISO 6708 OBJECT DN 250",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 250 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 25",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn25",
+        "designation": "ISO 6708 OBJECT DN 25",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 25 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 200",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn200",
+        "designation": "ISO 6708 OBJECT DN 200",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 200 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 350",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn350",
+        "designation": "ISO 6708 OBJECT DN 350",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 350 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 100",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn100",
+        "designation": "ISO 6708 OBJECT DN 100",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 100 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ISO 6708 OBJECT DN 1600",
+        "uri": "http://sandbox.dexpi.org/rdl/Iso6708ObjectDn1600",
+        "designation": "ISO 6708 OBJECT DN 1600",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 1600 provided by ISO 6708.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS201959": {
+    "label": "RDS201959",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DEXPI PROPERTY CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/DexpiPropertyClass",
+        "designation": "DEXPI PROPERTY CLASS",
+        "comment": "",
+        "definition": "A property class defined by DEXPI.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIndividual"
+      },
+      {
+        "label": "DEXPI EQUIPMENT COMPONENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/DexpiEquipmentComponentClass",
+        "designation": "DEXPI EQUIPMENT COMPONENT CLASS",
+        "comment": "",
+        "definition": "An equipment component class defined by DEXPI.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIndividual"
+      },
+      {
+        "label": "DEXPI IDENTIFICATION CLASS OF CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/DexpiIdentificationClassOfClass",
+        "designation": "DEXPI IDENTIFICATION CLASS OF CLASS",
+        "comment": "",
+        "definition": "An identification class of class defined by DEXPI.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClass"
+      },
+      {
+        "label": "DEXPI EQUIPMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/DexpiEquipmentClass",
+        "designation": "DEXPI EQUIPMENT CLASS",
+        "comment": "",
+        "definition": "An equipment class defined by DEXPI.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIndividual"
+      },
+      {
+        "label": "DEXPI DESCRIPTION CLASS OF CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/DexpiDescriptionClassOfClass",
+        "designation": "DEXPI DESCRIPTION CLASS OF CLASS",
+        "comment": "",
+        "definition": "A description class of class defined by DEXPI.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClass"
+      }
+    ]
+  },
+  "DIN 2448 OBJECT": {
+    "label": "DIN 2448 OBJECT",
+    "uri": "http://sandbox.dexpi.org/rdl/Din2448Object",
+    "designation": "DIN 2448 OBJECT",
+    "comment": "",
+    "children": [
+      {
+        "label": "DIN 2448 OBJECT DN 100",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn100",
+        "designation": "DIN 2448 OBJECT DN 100",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 100 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 25",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn25",
+        "designation": "DIN 2448 OBJECT DN 25",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 25 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 40",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn40",
+        "designation": "DIN 2448 OBJECT DN 40",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 40 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 15",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn15",
+        "designation": "DIN 2448 OBJECT DN 15",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 15 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 80",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn80",
+        "designation": "DIN 2448 OBJECT DN 80",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 80 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 50",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn50",
+        "designation": "DIN 2448 OBJECT DN 50",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 50 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 125",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn125",
+        "designation": "DIN 2448 OBJECT DN 125",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 125 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 32",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn32",
+        "designation": "DIN 2448 OBJECT DN 32",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 32 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 200",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn200",
+        "designation": "DIN 2448 OBJECT DN 200",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 200 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 65",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn65",
+        "designation": "DIN 2448 OBJECT DN 65",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 65 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 150",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn150",
+        "designation": "DIN 2448 OBJECT DN 150",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 150 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "DIN 2448 OBJECT DN 20",
+        "uri": "http://sandbox.dexpi.org/rdl/Din2448ObjectDn20",
+        "designation": "DIN 2448 OBJECT DN 20",
+        "comment": "",
+        "definition": "An object conforming to the specification for pipes nominal size DN 20 provided by DIN 2448.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS2064487471": {
+    "label": "RDS2064487471",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "TAG NAME SUFFIX ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/TagNameSuffixAssignmentClass",
+        "designation": "TAG NAME SUFFIX ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign the suffix part of a tag name to a tagged object.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      },
+      {
+        "label": "TAG NAME SEQUENCE NUMBER ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/TagNameSequenceNumberAssignmentClass",
+        "designation": "TAG NAME SEQUENCE NUMBER ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign the sequence number part of a tag name to a tagged object.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      },
+      {
+        "label": "TAG NAME PREFIX ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/TagNamePrefixAssignmentClass",
+        "designation": "TAG NAME PREFIX ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign the prefix part of a tag name to a tagged object.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      },
+      {
+        "label": "LINE NUMBER ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/LineNumberAssignmentClass",
+        "designation": "LINE NUMBER ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign a line number.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      },
+      {
+        "label": "SEGMENT NUMBER ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/SegmentNumberAssignmentClass",
+        "designation": "SEGMENT NUMBER ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign a segment number.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      },
+      {
+        "label": "TAG NAME ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/TagNameAssignmentClass",
+        "designation": "TAG NAME ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign a tag name to a tagged object.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      }
+    ]
+  },
+  "PROPERTY BREAK": {
+    "label": "PROPERTY BREAK",
+    "uri": "http://sandbox.dexpi.org/rdl/PropertyBreak",
+    "designation": "PROPERTY BREAK",
+    "comment": "",
+    "children": [
+      {
+        "label": "NO NOMINAL DIAMETER BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/NoNominalDiameterBreak",
+        "designation": "NO NOMINAL DIAMETER BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "NO COMPOSITION BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/NoCompositionBreak",
+        "designation": "NO COMPOSITION BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "NOMINAL DIAMETER BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/NominalDiameterBreak",
+        "designation": "NOMINAL DIAMETER BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "NO PIPING CLASS BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/NoPipingClassBreak",
+        "designation": "NO PIPING CLASS BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "INSULATION BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/InsulationBreak",
+        "designation": "INSULATION BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "NO INSULATION BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/NoInsulationBreak",
+        "designation": "NO INSULATION BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "PIPING CLASS BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/PipingClassBreak",
+        "designation": "PIPING CLASS BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      },
+      {
+        "label": "COMPOSITION BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/CompositionBreak",
+        "designation": "COMPOSITION BREAK",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      }
+    ]
+  },
+  "RDS14119225": {
+    "label": "RDS14119225",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DESIGN HEAT TRANSFER AREA",
+        "uri": "http://sandbox.dexpi.org/rdl/DesignHeatTransferArea",
+        "designation": "DESIGN HEAT TRANSFER AREA",
+        "comment": "",
+        "definition": "An area that is available for heat transfer by design.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS350954": {
+    "label": "RDS350954",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DESIGN DIAMETER WHEEL",
+        "uri": "http://sandbox.dexpi.org/rdl/DesignDiameterWheel",
+        "designation": "DESIGN DIAMETER WHEEL",
+        "comment": "",
+        "definition": "A diameter which is the diameter of a wheel by design.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS292589": {
+    "label": "RDS292589",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "GLOBE CHECK VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/GlobeCheckValve",
+        "designation": "GLOBE CHECK VALVE",
+        "comment": "",
+        "definition": "A globe style silent check valve is a type of valve used for   regulating flow in a pipeline, consisting of a movable disk-type element   and a stationary ring seat in a generally spherical body.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SHUT OFF VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/ShutOffValve",
+        "designation": "SHUT OFF VALVE",
+        "comment": "",
+        "definition": "A valve whose intended function does not include a gradual     regulation of flow.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ANGLE BALL VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/AngleBallValve",
+        "designation": "ANGLE BALL VALVE",
+        "comment": "",
+        "definition": "A ball valve whose valve do not lie in a line.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "BREATHER VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/BreatherValve",
+        "designation": "BREATHER VALVE",
+        "comment": "",
+        "definition": "Breather Valves, also known as direct acting   Pressure/Vacuum Relief Valves, are special types of Relief Valves which   are specifically designed for tank protection. ",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SPRING LOADED GLOBE SAFETY VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/SpringLoadedGlobeSafetyValve",
+        "designation": "SPRING LOADED GLOBE SAFETY VALVE",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "SPRING LOADED ANGLE GLOBE SAFETY VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/SpringLoadedAngleGlobeSafetyValve",
+        "designation": "SPRING LOADED ANGLE GLOBE SAFETY VALVE",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "ANGLE PLUG VALVE",
+        "uri": "http://sandbox.dexpi.org/rdl/AnglePlugValve",
+        "designation": "ANGLE PLUG VALVE",
+        "comment": "",
+        "definition": "A plug valve whose ports do not lie in a line.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS318059": {
+    "label": "RDS318059",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "POSITIONER",
+        "uri": "http://sandbox.dexpi.org/rdl/Positioner",
+        "designation": "POSITIONER",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfFunctionalObject"
+      },
+      {
+        "label": "PROCESS SIGNAL GENERATING SYSTEM",
+        "uri": "http://sandbox.dexpi.org/rdl/ProcessSignalGeneratingSystem",
+        "designation": "PROCESS SIGNAL GENERATING SYSTEM",
+        "comment": "",
+        "definition": "An assembly of artefacts that is designed to fulfill a SENSING PROCESS CONTROL REQUIREMENT.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfFunctionalObject"
+      },
+      {
+        "label": "ACTUATING SYSTEM",
+        "uri": "http://sandbox.dexpi.org/rdl/ActuatingSystem",
+        "designation": "ACTUATING SYSTEM",
+        "comment": "",
+        "definition": "An assembly of artefacts that is designed to fulfill an ACTING PROCESS CONTROL REQUIREMENT.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfFunctionalObject"
+      }
+    ]
+  },
+  "RDS327150341": {
+    "label": "RDS327150341",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "NOT ON HOLD",
+        "uri": "http://sandbox.dexpi.org/rdl/NotOnHold",
+        "designation": "NOT ON HOLD",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#Status"
+      },
+      {
+        "label": "ON HOLD",
+        "uri": "http://sandbox.dexpi.org/rdl/OnHold",
+        "designation": "ON HOLD",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#Status"
+      }
+    ]
+  },
+  "RDS5957180": {
+    "label": "RDS5957180",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "SET PRESSURE LOW",
+        "uri": "http://sandbox.dexpi.org/rdl/SetPressureLow",
+        "designation": "SET PRESSURE LOW",
+        "comment": "",
+        "definition": "The low pressure at which an object is activated.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      },
+      {
+        "label": "SET PRESSURE HIGH",
+        "uri": "http://sandbox.dexpi.org/rdl/SetPressureHigh",
+        "designation": "SET PRESSURE HIGH",
+        "comment": "",
+        "definition": "The high pressure at which an object is activated.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS17059080": {
+    "label": "RDS17059080",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DISPLACER",
+        "uri": "http://sandbox.dexpi.org/rdl/Displacer",
+        "designation": "DISPLACER",
+        "comment": "Superclasses ARTEFACT and PHYSICAL OBJECT chosen in analogy with PUMP. ",
+        "definition": "The displacer of a displacement pump.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS397794641": {
+    "label": "RDS397794641",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "PROPERTY BREAK",
+        "uri": "http://sandbox.dexpi.org/rdl/PropertyBreak",
+        "designation": "PROPERTY BREAK",
+        "comment": "",
+        "definition": "A property break marks the transition of a property     from one value to another.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfRelationshipWithSignature"
+      }
+    ]
+  },
+  "RDS355859": {
+    "label": "RDS355859",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "LOWER LIMIT HEAT TRACING TEMPERATURE",
+        "uri": "http://sandbox.dexpi.org/rdl/LowerLimitHeatTracingTemperature",
+        "designation": "LOWER LIMIT HEAT TRACING TEMPERATURE",
+        "comment": "",
+        "definition": "A class to assign a minimum tracing temperature.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfDescription"
+      }
+    ]
+  },
+  "PROCESS INSTRUMENTATION FUNCTION": {
+    "label": "PROCESS INSTRUMENTATION FUNCTION",
+    "uri": "http://sandbox.dexpi.org/rdl/ProcessInstrumentationFunction",
+    "designation": "PROCESS INSTRUMENTATION FUNCTION",
+    "comment": "",
+    "children": [
+      {
+        "label": "PROCESS CONTROL FUNCTION",
+        "uri": "http://sandbox.dexpi.org/rdl/ProcessControlFunction",
+        "designation": "PROCESS CONTROL FUNCTION",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfFunctionalObject"
+      }
+    ]
+  },
+  "RDS410354": {
+    "label": "RDS410354",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "UPPER LIMIT DESIGN POWER",
+        "uri": "http://sandbox.dexpi.org/rdl/UpperLimitDesignPower",
+        "designation": "UPPER LIMIT DESIGN POWER",
+        "comment": "",
+        "definition": "A power which is the highest power an object or apparatus is designed to create, transmit or tolerate.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS359774": {
+    "label": "RDS359774",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "CYLINDER LENGTH",
+        "uri": "http://sandbox.dexpi.org/rdl/CylinderLength",
+        "designation": "CYLINDER LENGTH",
+        "comment": "",
+        "definition": "A length that is the axial length from the lower edge of a cylinder to the upper edge.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS421199": {
+    "label": "RDS421199",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "JACKETED PIPE",
+        "uri": "http://sandbox.dexpi.org/rdl/JacketedPipe",
+        "designation": "JACKETED PIPE",
+        "comment": "",
+        "definition": "A pipe that is jacketed",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "UNJACKETED PIPE",
+        "uri": "http://sandbox.dexpi.org/rdl/UnjacketedPipe",
+        "designation": "UNJACKETED PIPE",
+        "comment": "",
+        "definition": "A pipe that is not jacketed",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS6962420": {
+    "label": "RDS6962420",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "PIPE CONNECTOR SYMBOL",
+        "uri": "http://sandbox.dexpi.org/rdl/PipeConnectorSymbol",
+        "designation": "PIPE CONNECTOR SYMBOL",
+        "comment": "",
+        "definition": "A symbol that represents a pipe connector.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#RepresentationForm"
+      }
+    ]
+  },
+  "RDS3149": {
+    "label": "RDS3149",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "ACTUATING FUNCTION",
+        "uri": "http://sandbox.dexpi.org/rdl/ActuatingFunction",
+        "designation": "ACTUATING FUNCTION",
+        "comment": "",
+        "definition": "A requirement for acting control structures relating to process.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfActivity"
+      },
+      {
+        "label": "SIGNAL CONVEYING FUNCTION",
+        "uri": "http://sandbox.dexpi.org/rdl/SignalConveyingFunction",
+        "designation": "SIGNAL CONVEYING FUNCTION",
+        "comment": "",
+        "definition": "",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfActivity"
+      },
+      {
+        "label": "PROCESS INSTRUMENTATION FUNCTION",
+        "uri": "http://sandbox.dexpi.org/rdl/ProcessInstrumentationFunction",
+        "designation": "PROCESS INSTRUMENTATION FUNCTION",
+        "comment": "",
+        "definition": "A requirement for instrumentation and/or control structures relating to Process Engineering.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfActivity"
+      },
+      {
+        "label": "PROCESS SIGNAL GENERATING FUNCTION",
+        "uri": "http://sandbox.dexpi.org/rdl/ProcessSignalGeneratingFunction",
+        "designation": "PROCESS SIGNAL GENERATING FUNCTION",
+        "comment": "",
+        "definition": "A requirement for instrumentation and/or control structures relating to sensing process conditions.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfActivity"
+      },
+      {
+        "label": "INSTRUMENTATION LOOP FUNCTION",
+        "uri": "http://sandbox.dexpi.org/rdl/InstrumentationLoopFunction",
+        "designation": "INSTRUMENTATION LOOP FUNCTION",
+        "comment": "",
+        "definition": "An identified collection of related PROCESS CONTROL REQUIREMENTs that interact for a known purpose.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfActivity"
+      }
+    ]
+  },
+  "RDS381869": {
+    "label": "RDS381869",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DESIGN HEAT FLOW RATE",
+        "uri": "http://sandbox.dexpi.org/rdl/DesignHeatFlowRate",
+        "designation": "DESIGN HEAT FLOW RATE",
+        "comment": "",
+        "definition": "Rate at which heat crosses a given surface by design.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS648674": {
+    "label": "RDS648674",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "ILLUMINATED SIGHT GLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/IlluminatedSightGlass",
+        "designation": "ILLUMINATED SIGHT GLASS",
+        "comment": "",
+        "definition": "A sight glass that is illuminated.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS361709": {
+    "label": "RDS361709",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "PLATE WIDTH",
+        "uri": "http://sandbox.dexpi.org/rdl/PlateWidth",
+        "designation": "PLATE WIDTH",
+        "comment": "",
+        "definition": "The width of a plate.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS354734": {
+    "label": "RDS354734",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DESIGN ROTATIONAL SPEED",
+        "uri": "http://sandbox.dexpi.org/rdl/DesignRotationalSpeed",
+        "designation": "DESIGN ROTATIONAL SPEED",
+        "comment": "",
+        "definition": "The number of 360 degree revolutions per unit time by design.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "RDS357704": {
+    "label": "RDS357704",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "DESIGN PRESSURE HEAD",
+        "uri": "http://sandbox.dexpi.org/rdl/DesignPressureHead",
+        "designation": "DESIGN PRESSURE HEAD",
+        "comment": "",
+        "definition": "The design pressure head of a pump.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      },
+      {
+        "label": "PLATE HEIGHT",
+        "uri": "http://sandbox.dexpi.org/rdl/PlateHeight",
+        "designation": "PLATE HEIGHT",
+        "comment": "",
+        "definition": "The height of a plate.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#SinglePropertyDimension"
+      }
+    ]
+  },
+  "PIPE CONNECTOR SYMBOL": {
+    "label": "PIPE CONNECTOR SYMBOL",
+    "uri": "http://sandbox.dexpi.org/rdl/PipeConnectorSymbol",
+    "designation": "PIPE CONNECTOR SYMBOL",
+    "comment": "",
+    "children": [
+      {
+        "label": "FLOW OUT PIPE CONNECTOR SYMBOL",
+        "uri": "http://sandbox.dexpi.org/rdl/FlowOutPipeConnectorSymbol",
+        "designation": "FLOW OUT PIPE CONNECTOR SYMBOL",
+        "comment": "",
+        "definition": "A symbol that represents an off-page pipe connector.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#RepresentationForm"
+      },
+      {
+        "label": "FLOW IN PIPE CONNECTOR SYMBOL",
+        "uri": "http://sandbox.dexpi.org/rdl/FlowInPipeConnectorSymbol",
+        "designation": "FLOW IN PIPE CONNECTOR SYMBOL",
+        "comment": "",
+        "definition": "A symbol that represents an on-page pipe connector.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#RepresentationForm"
+      }
+    ]
+  },
+  "RDS13048190": {
+    "label": "RDS13048190",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "MAIN FLOW OUT NODE",
+        "uri": "http://sandbox.dexpi.org/rdl/MainFlowOutNode",
+        "designation": "MAIN FLOW OUT NODE",
+        "comment": "",
+        "definition": "The primary node through which ia flow leaves a device.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      },
+      {
+        "label": "MAIN FLOW IN NODE",
+        "uri": "http://sandbox.dexpi.org/rdl/MainFlowInNode",
+        "designation": "MAIN FLOW IN NODE",
+        "comment": "",
+        "definition": "The primary node through which ia flow enters a device.",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfInanimatePhysicalObject"
+      }
+    ]
+  },
+  "RDS2064481521": {
+    "label": "RDS2064481521",
+    "uri": null,
+    "designation": null,
+    "comment": null,
+    "children": [
+      {
+        "label": "SUBEQUIPMENT ID ASSIGNMENT CLASS",
+        "uri": "http://sandbox.dexpi.org/rdl/SubequipmentIdAssignmentClass",
+        "designation": "SUBEQUIPMENT ID ASSIGNMENT CLASS",
+        "comment": "",
+        "definition": "A class to assign a subequipment identifier to a part of an equipment. ",
+        "type": "http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#ClassOfClassOfIdentification"
+      }
+    ]
+  }
+}

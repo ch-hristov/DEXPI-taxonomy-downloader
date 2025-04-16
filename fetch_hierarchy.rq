@@ -1,0 +1,11 @@
+PREFIX iso15926: <http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?sub ?subLabel ?super ?superLabel
+WHERE {
+  ?spec a iso15926:Specialization ;
+        iso15926:hasSubclass ?sub ;
+        iso15926:hasSuperclass ?super .
+  OPTIONAL { ?sub rdfs:label ?subLabel }
+  OPTIONAL { ?super rdfs:label ?superLabel }
+}

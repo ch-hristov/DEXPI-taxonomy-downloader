@@ -1,0 +1,14 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX pca:  <http://data.posccaesar.org/rdl/>
+PREFIX p2:   <http://rds.posccaesar.org/2008/02/OWL/ISO-15926-2_2003#>
+
+SELECT DISTINCT ?class ?label ?comment ?designation ?definition ?type
+WHERE {
+  ?class rdfs:label ?label .
+  OPTIONAL { ?class rdfs:comment ?comment }
+  OPTIONAL { ?class pca:hasDesignation ?designation }
+  OPTIONAL { ?class pca:hasDefinition ?definition }
+  OPTIONAL { ?class rdf:type ?type }
+  FILTER STRSTARTS(STR(?class), "http://sandbox.dexpi.org/rdl/")
+}
